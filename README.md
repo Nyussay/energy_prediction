@@ -13,4 +13,6 @@ Run ``` pip install -r requirements.txt ``` to install the necessary packages.
 
 
 Run the application:
-Use ```python app.py``` or ```python app.py``` to start the Flask application.
+Use ```python3 hourly_prediction.py`` or ```python hourly_prediction.py``` to start the Flask application - Hourly prediction.
+Use ```python3 monthly_prediction.py`` or ```python monthly_prediction.py``` to start the Flask application - Monthly prediction.
+
